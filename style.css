@@ -26,11 +26,13 @@ img {
 .eth-icon {
 	width: 10px;
 	height: 18px;
+	/*margin-right: -8px;*/
 }
 
 .clk-icon {
 	width: 18px;
 	height: 18px;
+	/*margin-right: -8px;*/
 }
 
 .avatar {
@@ -52,9 +54,17 @@ p {
 	color: #8BACDA;
 }
 
+.eth-price {
+	font-weight: 600;
+	font-size: 16px;
+	color: #00fff8;
+}
 
+.time-left {
+	font-size: 16px;
+}
 
-.attribution {
+.attribution-text {
 	font-size: 16px;
 	font-weight: 300px;	
 }
@@ -71,9 +81,13 @@ hr {
 div {
 	display: flex;
 	align-items: center;
-	gap: 15px;
+	gap: 8px;
 }
 
 .data {
 	justify-content: space-between;
+}
+
+.attribution {
+	gap: 15px;
 }
