@@ -8,7 +8,6 @@ html, body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	
 }
 
 main {
@@ -16,11 +15,22 @@ main {
 	border-radius: 10px;
 	padding: 25px;
 	background-color: #14253D;
+	justify-content: space-between;
 }
 
 img {
 	width: 100%;
 	border-radius: 10px;
+}
+
+.eth-icon {
+	width: 10px;
+	height: 18px;
+}
+
+.clk-icon {
+	width: 18px;
+	height: 18px;
 }
 
 .avatar {
@@ -42,6 +52,8 @@ p {
 	color: #8BACDA;
 }
 
+
+
 .attribution {
 	font-size: 16px;
 	font-weight: 300px;	
@@ -57,8 +69,11 @@ hr {
 }
 
 div {
-	display: inline-flex;
-	flex-wrap: wrap;
+	display: flex;
 	align-items: center;
 	gap: 15px;
+}
+
+.data {
+	justify-content: space-between;
 }
