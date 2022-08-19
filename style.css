@@ -81,13 +81,12 @@ hr {
 div {
 	display: flex;
 	align-items: center;
-	gap: 8px;
-}
-
-.data {
 	justify-content: space-between;
+	gap: 8px; /*spacing for the image/data*/
 }
 
-.attribution {
+footer {
+	display: flex;
+	align-items: center;
 	gap: 15px;
 }
