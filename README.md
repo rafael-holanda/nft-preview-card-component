@@ -16,7 +16,7 @@ NFT Preview Card Component is a challenge from Frontend Mentor, where the propos
 is to create a centered card that shows an NFT, the description of its collection,
 price, available time, and attribution to the artist.
 
-Want to see it live? Check it out on the Environment section, or click [here!]()
+Want to see it live? Check it out on the Environment section, or click [here!](https://rafael-holanda.github.io/nft-preview-card-component/)
 
 Or, do you want to check the challenge page? Click [here!](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component--BH_KPuT5i)
 
