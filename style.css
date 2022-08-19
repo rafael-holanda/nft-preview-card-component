@@ -26,13 +26,11 @@ img {
 .eth-icon {
 	width: 10px;
 	height: 18px;
-	/*margin-right: -8px;*/
 }
 
 .clk-icon {
 	width: 18px;
 	height: 18px;
-	/*margin-right: -8px;*/
 }
 
 .avatar {
@@ -83,10 +81,12 @@ div {
 	align-items: center;
 	justify-content: space-between;
 	gap: 8px; /*spacing for the image/data*/
+	margin-top: -5px;
 }
 
 footer {
 	display: flex;
 	align-items: center;
 	gap: 15px;
+	margin-bottom: -10px;
 }
