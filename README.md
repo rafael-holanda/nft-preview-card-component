@@ -25,9 +25,6 @@ Or, do you want to check the challenge page? Click [here!](https://www.frontendm
 This project was made with the [replit.com](https://replit.com) IDE, where I used basic HTML and CSS. 
 Also, I used some basic Flexbox properties to properly center the NFT card and the logos.
 
-Working on this project I was able to better develop my CSS skills, where I learned
-key concepts of Flexbox, responsiveness and how to import external fonts into the code.
-
 Although I think the code could be better optimized, I managed to get the expected result. 
 With this project done, I want to continue developing my front-end skills, learn more
 about Flexbox, and do bigger and more complex projects.
