@@ -11,11 +11,12 @@ html, body {
 }
 
 main {
-	width: 300px;
+	max-width: 300px;
+	min-width: 240px;
 	border-radius: 10px;
 	padding: 25px;
 	background-color: #14253D;
-	justify-content: space-between;
+	
 }
 
 .nft {
@@ -72,12 +73,20 @@ a {
 	text-decoration: none;
 }
 
-div {
+ul {
 	display: flex;
-	align-items: center;
 	justify-content: space-between;
-	gap: 8px; /*spacing for the image/data*/
-	margin-top: -5px;
+	align-items: center;
+	margin-top: -15px;
+	padding: 0px;
+}
+
+li {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	list-style: none;
 }
 
 footer {
@@ -87,4 +96,5 @@ footer {
 	align-items: center;
 	gap: 15px;
 	margin-bottom: -10px;
+	margin-top: -10px;
 }
